@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "popular_library_HW2"
