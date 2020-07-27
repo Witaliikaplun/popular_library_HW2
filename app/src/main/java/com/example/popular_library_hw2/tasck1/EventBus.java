@@ -16,6 +16,6 @@ public class EventBus {
                 return subject;
     }
     public void onNexyt(){
-        subject.onNext("свое сообщение");
+        subject.onNext("свое сообщение ");
     }
 }
